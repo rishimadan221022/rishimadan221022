@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rishimadan221022
-- 👀 I’m interested in deep learning, data structures and more.
-- 🌱 I’m currently learning C++, TensorFlow, DSA and Deep Learning.
-- 💞️ I’m looking to collaborate on open source and machine learning based projects.
+Rishi Madan_500082336_Artificial Intelligence and Machine Learning_Batch:3 Hons.
+Vartika Singh_500085957_Artificial Intelligence and Machine Learning_Batch:3 Hons.
+
 
 
 
